@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Michael Merkaba | @gittyample
 
-<!--
-**gittyample/gittyample** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 AI Market Architect • SniperBot Creator • Quantum Trader
 
-Here are some ideas to get you started:
+I'm building **SniperBot**, a real-time options engine powered by:
+- 🧠 Reinforcement learning
+- 🔁 Behavior tagging + ghost trades
+- 📡 Schwab + yFinance live data
+- 🌌 Quantum zone detection + root zone targeting
+- ☁️ Deployed on AWS with Cloudflare tunnel
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📍 Based in Houston, TX  
+💼 Currently building in public.
+
+🛠️ Featured Repo: [SniperBot Engine](https://github.com/gittyample/sniperbot-engine)
