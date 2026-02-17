@@ -1,15 +1,32 @@
-# 👋 Michael Merkaba | @gittyample
+# Michael H. Torres
 
-🎯 AI Market Architect • SniperBot Creator • Quantum Trader
+Backend Engineer | Python | AWS | API & Data Systems
 
-I'm building **SniperBot**, a real-time options engine powered by:
-- 🧠 Reinforcement learning
-- 🔁 Behavior tagging + ghost trades
-- 📡 Schwab + yFinance live data
-- 🌌 Quantum zone detection + root zone targeting
-- ☁️ Deployed on AWS with Cloudflare tunnel
+Backend-focused engineer building real-time financial data systems and automation tools using Python and AWS.
 
-📍 Based in Houston, TX  
-💼 Currently building in public.
+## Current Work
 
-🛠️ Featured Repo: [SniperBot Engine](https://github.com/gittyample/sniperbot-engine)
+I am developing a real-time market data processing engine that includes:
+
+- REST API integration with OAuth authentication
+- Secure token lifecycle management
+- Structured JSON ingestion and normalization
+- Modular backend architecture
+- AWS EC2 cloud deployment
+- Logging and system monitoring pipelines
+
+## Tech Stack
+
+Python  
+REST APIs  
+OAuth  
+Pandas  
+AWS EC2  
+Linux  
+Git  
+
+Based in Houston, TX.
+
+Currently seeking backend engineering or API-focused technical roles.
+
+ Featured Repo: [SniperBot Engine](https://github.com/gittyample/sniperbot-engine)
