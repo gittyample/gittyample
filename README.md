@@ -17,16 +17,25 @@ I am developing a real-time market data processing engine that includes:
 
 ## Tech Stack
 
-Python  
-REST APIs  
-OAuth  
-Pandas  
-AWS EC2  
-Linux  
-Git  
+- Python  
+- REST APIs  
+- OAuth  
+- Pandas  
+- AWS EC2  
+- Linux  
+- Git
 
-Based in Houston, TX.
+  
+## Featured Project
 
-Currently seeking backend engineering or API-focused technical roles.
+### SniperBot Engine  
+Real-time financial data processing and signal evaluation framework built with Python and deployed on AWS.
 
- Featured Repo: [SniperBot Engine](https://github.com/gittyample/sniperbot-engine)
+Repository:  
+https://github.com/gittyample/sniperbot-engine
+
+---
+
+Based in Houston, TX  
+Currently seeking backend engineering or API-focused technical roles
+
