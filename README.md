@@ -1,41 +1,38 @@
-# Michael H. Torres
+Michael H. Torres
+Backend Engineer | Python | Data Systems | Cloud Infrastructure
 
-Backend Engineer | Python | AWS | API & Data Systems
+I build and deploy backend systems that process real-time data, authenticate securely with external APIs, and operate reliably in cloud environments.
 
-Backend-focused engineer building real-time financial data systems and automation tools using Python and AWS.
+I focus on production-style architecture, clean modular code, and operational reliability.
 
-## Current Work
+What I Deliver
+• OAuth-secured API integrations (token exchange + automated refresh handling)
+• Structured JSON ingestion and normalization pipelines
+• Real-time data evaluation engines
+• Logging + monitoring ready for cloud environments
+• Linux server deployment on AWS EC2
+• Systems built to run unattended
 
-I am developing a real-time market data processing engine that includes:
+Current Build — SniperBot Engine
 
-- REST API integration with OAuth authentication
-- Secure token lifecycle management
-- Structured JSON ingestion and normalization
-- Modular backend architecture
-- AWS EC2 cloud deployment
-- Logging and system monitoring pipelines
+A real-time financial data processing engine deployed on AWS EC2.
 
-## Tech Stack
+System Highlights
+• Live REST API integration with secure auth
+• Automated token lifecycle management
+• Option chain ingestion + normalization
+• Mathematical signal evaluation layers
+• Structured logging for post-market analytics
+• Cloud deployment + runtime management
 
-- Python  
-- REST APIs  
-- OAuth  
-- Pandas  
-- AWS EC2  
-- Linux  
-- Git
+Tech Stack
+Python
+Pandas
+REST APIs
+OAuth2
+AWS EC2
+Linux
+Git
 
-  
-## Featured Project
-
-### SniperBot Engine  
-Real-time financial data processing and signal evaluation framework built with Python and deployed on AWS.
-
-Repository:  
-https://github.com/gittyample/sniperbot-engine
-
----
-
-Based in Houston, TX  
-Currently seeking backend engineering or API-focused technical roles
-
+Based in Houston, TX
+Open to backend engineering, API, or data infrastructure roles.
